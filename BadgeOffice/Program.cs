@@ -1,4 +1,13 @@
-﻿//Part 1: Name
+﻿/*
+* Name: Alex Stivers
+* Course: CSCI 1250, Section 001
+* Assignment: Lab 03, The Badge Office
+* Date: September 30, 2026
+* Description: Builds a student badge from a name, two random assignments,
+*              and the walking distance to a first class
+*/
+
+//Part 1: Name
 using System.Diagnostics;
 using System.Numerics;
 using System.Security.Cryptography;

@@ -56,7 +56,7 @@ double classY = double.Parse(Console.ReadLine());
 Console.Write("Walking speed in feet per second: ");
 double speed = double.Parse(Console.ReadLine());
 
-double distance = Math.Sqrt((Math.Pow(classX - dormX, 2)) + Math.Pow(classY - dormY, 2))Ada;
+double distance = Math.Sqrt((Math.Pow(classX - dormX, 2)) + Math.Pow(classY - dormY, 2));
 double roundedDistance = Math.Round(distance, 1);
 
 int totalSeconds = (int)(distance / speed);
